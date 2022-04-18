@@ -2,4 +2,6 @@ RENCANA BELAJAR
 
 - OOP Java
 - Javascript
+  * ES6
+  * Framework Javascript
 - Machine learning
