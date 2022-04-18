@@ -4,8 +4,9 @@ RENCANA BELAJAR
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
+- Struktur data dasar
 - Machine learning
   ^ Numpy
   ^ Matplotlib
